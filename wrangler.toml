@@ -1,0 +1,8 @@
+name = "boerki01"
+compatibility_date = "2024-05-15"
+
+[build]
+command = "npm run build"
+
+[assets]
+directory = "./dist"
